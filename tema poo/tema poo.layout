@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Lista.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="910" topLine="34" />
+	</File>
+	<File name="Lista.h" open="1" top="0" tabpos="4">
+		<Cursor position="236" topLine="0" />
+	</File>
+	<File name="graf.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="6524" topLine="293" />
+	</File>
+	<File name="graf.h" open="1" top="0" tabpos="6">
+		<Cursor position="752" topLine="7" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="693" topLine="34" />
+	</File>
+	<File name="nod.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="39" topLine="2" />
+	</File>
+	<File name="nod.h" open="1" top="0" tabpos="2">
+		<Cursor position="386" topLine="0" />
+	</File>
+	<File name="teste.in" open="1" top="0" tabpos="8">
+		<Cursor position="132" topLine="11" />
+	</File>
+</CodeBlocks_layout_file>
